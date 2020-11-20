@@ -25,8 +25,8 @@ namespace Array
             for (var contador = 0; contador <3; contador++)
             {
                 
-                Console.WriteLine("Nome : "+nomes[contador]+ "\n Idade : "+idades[contador]);
-              
+                Console.WriteLine("Nome: "+nomes[contador]+ "\n Idade: "+idades[contador]);
+                //Console.WriteLine("Nome: "+nomes[contador]+ "\n Idade: "+idades[contador]);
             }
         }
     }

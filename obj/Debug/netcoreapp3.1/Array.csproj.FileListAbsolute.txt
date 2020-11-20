@@ -11,3 +11,16 @@ C:\Users\Ariel\OneDrive\Desktop\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreC
 C:\Users\Ariel\OneDrive\Desktop\Array\obj\Debug\netcoreapp3.1\Array.dll
 C:\Users\Ariel\OneDrive\Desktop\Array\obj\Debug\netcoreapp3.1\Array.pdb
 C:\Users\Ariel\OneDrive\Desktop\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache
+C:\Users\dev\Desktop\Array\bin\Debug\netcoreapp3.1\Array.exe
+C:\Users\dev\Desktop\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+C:\Users\dev\Desktop\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.json
+C:\Users\dev\Desktop\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Array\bin\Debug\netcoreapp3.1\Array.dll
+C:\Users\dev\Desktop\Array\bin\Debug\netcoreapp3.1\Array.pdb
+C:\Users\dev\Desktop\Array\obj\Debug\netcoreapp3.1\Array.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+C:\Users\dev\Desktop\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Array\obj\Debug\netcoreapp3.1\Array.dll
+C:\Users\dev\Desktop\Array\obj\Debug\netcoreapp3.1\Array.pdb
+C:\Users\dev\Desktop\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache
